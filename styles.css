@@ -141,3 +141,12 @@ section {
 .wiki a:visited {
     color:#0D1E38
 }
+
+@media screen and(max-width:400px;) {
+
+
+
+.footer p {
+    width:200px;
+}
+}
