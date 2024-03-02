@@ -142,8 +142,8 @@ section {
     color:#0D1E38
 }
 
-@media screen and(max-width:600px) {
-  .footer p {
-    display:none;
+@media screen and(max-width:768px) {
+  .footer {
+    display: none;
   }
 }
