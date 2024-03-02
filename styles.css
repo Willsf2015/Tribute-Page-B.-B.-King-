@@ -143,10 +143,7 @@ section {
 }
 
 @media screen and(max-width:600px) {
-
-
-
-.footer {
-    font-size:8px;
-}
+  .footer p {
+    font-size:5px;
+  }
 }
