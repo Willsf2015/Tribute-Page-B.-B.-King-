@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    text-decoration: none;
+    
+ }
+
+ html {
+    width: 100vw;
+    height: 100vh;
+    font-size: 62.5%;
+    overflow-x: hidden;
+ }
+
+ body {
+    width: 100vw;
+    text-align: center;
+    font-family: 'Sen';
+    background:#0D1E38;
+ }
+ 
+ h1 {
+    font-size: 4rem;
+    color:#FBF2EB;
+    margin-top:70px;
+ }
+ 
+ .timeline {
+    margin-top:30px;
+    margin-bottom: 30px;
+    color:#FBF2EB;
+    font-size:1.9rem;
+    font-weight: 600;
+ }
+.bbking-lucille {
+    background-color: #0D1E38;
+    width: 93vw;
+    height: auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding:30px;
+    border-radius: 3px;
+
+}
+
+.bbking-lucille img {
+    width: 70%;
+}
+
+img {
+    display: block;
+    position: relative;
+    left: 15%;
+}
+#image {
+    max-width:100%;
+}
+
+figcaption, .slogan {
+    color:#FBF2EB;
+    font-size: 1.6rem;
+}
+figcaption {
+    margin: 10px;
+}
+
+.slogan {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    color:#FBF2EB;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.main {
+    display: inline-block;
+    background-color: #5A5B5F;
+    width: 96vw;
+    margin-top:30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    
+}
+
+
+ul li {
+    font-size: 1.6rem;
+    color:#FBF2EB;
+    padding: 10px; 
+}
+
+ul {
+    max-width: 550px;
+    text-align: left;
+    line-height: 1.6;     
+}
+
+section {
+    display:inline-block;
+    
+    max-width: 700px;
+    
+    padding: 30px;
+    margin-top: 50px;
+}
+.bold {
+    font-weight: 600;
+}
+
+.footer {
+    height: 20vw;
+    font-size: 2rem;
+    margin-top:0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer p {
+    max-width: 50vw;
+    color:#0D1E38;
+    padding-bottom:15px;
+}
+
+.wiki {
+    font-size: 2.2rem;
+    font-weight: 600;
+    color:#0D1E38;
+    padding-bottom: 100px;
+}
+
+.wiki a:link {
+    color:#0D1E38;
+    text-decoration:underline
+}
+
+.wiki a:visited {
+    color:#0D1E38
+}
